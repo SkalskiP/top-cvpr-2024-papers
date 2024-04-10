@@ -26,6 +26,14 @@ looking for is not on my short list, take a peek at the full
    HEAD OVER TO https://github.com/SkalskiP/top-cvpr-2024-papers/blob/master/CONTRIBUTING.md FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
 
+### SpatialTracker: Tracking Any 2D Pixels in 3D Space
+[![arXiv](https://img.shields.io/badge/arXiv-2404.04319-b31b1b.svg)](https://arxiv.org/abs/2404.04319) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/henry123-boy/SpaTracker)   
+
+Yuxi Xiao, Qianqian Wang, Shangzhan Zhang, Nan Xue, Sida Peng, Yujun Shen, Xiaowei Zhou
+- **Date:** 2024-04-05
+- **Topics:** Pixel Tracking
+    
+
 ### YOLO-World: Real-Time Open-Vocabulary Object Detection
 [![arXiv](https://img.shields.io/badge/arXiv-2401.17270-b31b1b.svg)](https://arxiv.org/abs/2401.17270) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/AILab-CVC/YOLO-World) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/X7gKBGVz4vs) [![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/SkalskiP/YOLO-World) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-yolo-world.ipynb)
 
