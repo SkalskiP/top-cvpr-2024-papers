@@ -1,4 +1,4 @@
-topic, title, authors, paper, code, demo
-Open Vocabulary Object Detection, YOLO-World: Real-Time Open-Vocabulary Object Detection,"Tianheng Cheng et al.", 2401.17270, https://github.com/AILab-CVC/YOLO-World
-Object Detection, DETRs Beat YOLOs on Real-time Object Detection,"Wenyu Lv et al.", 2304.08069, https://github.com/lyuwenyu/RT-DETR?tab=readme-ov-file
-Generative AI, DemoFusion: Democratising High-Resolution Image Generation With No $$$,"Ruoyi Du et al.",2311.16973, https://github.com/PRIS-CV/DemoFusion
+"title","authors","date","paper","code","huggingface","colab","youtube","topics"
+"YOLO-World: Real-Time Open-Vocabulary Object Detection","Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan",30-01-2024,2401.17270,https://github.com/AILab-CVC/YOLO-World,https://huggingface.co/spaces/SkalskiP/YOLO-World,https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-yolo-world.ipynb,https://youtu.be/X7gKBGVz4vs,"Zero-Shot Object Detection"
+"DETRs Beat YOLOs on Real-time Object Detection","Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen",17-04-2023,2304.08069,https://github.com/lyuwenyu/RT-DETR,,,,"Real-Time Object Detection"
+"Alpha-CLIP: A CLIP Model Focusing on Wherever You Want","Zeyi Sun, Ye Fang, Tong Wu, Pan Zhang, Yuhang Zang, Shu Kong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang",13-12-2023,2312.03818,https://github.com/SunzeY/AlphaCLIP,https://huggingface.co/spaces/Zery/Alpha-CLIP_LLaVA-1.5,,,"Vision-Language"
