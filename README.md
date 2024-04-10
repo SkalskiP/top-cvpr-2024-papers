@@ -34,6 +34,14 @@ Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan
 - **Topics:** Zero-Shot Object Detection
     
 
+### DemoFusion: Democratising High-Resolution Image Generation With No $$$
+[![arXiv](https://img.shields.io/badge/arXiv-2311.16973-b31b1b.svg)](https://arxiv.org/abs/2311.16973) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/PRIS-CV/DemoFusion)  [![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/radames/Enhance-This-DemoFusion-SDXL) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/DemoFusion-colab/blob/main/DemoFusion_colab.ipynb)
+
+Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma
+- **Date:** 2023-12-15
+- **Topics:** Image Generation"
+    
+
 ### Alpha-CLIP: A CLIP Model Focusing on Wherever You Want
 [![arXiv](https://img.shields.io/badge/arXiv-2312.03818-b31b1b.svg)](https://arxiv.org/abs/2312.03818) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/SunzeY/AlphaCLIP)  [![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Zery/Alpha-CLIP_LLaVA-1.5) 
 
