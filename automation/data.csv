@@ -1,2 +1,4 @@
-topic, title, authors, paper, code
-Open Vocabulary Object Detection, YOLO-World: Real-Time Open-Vocabulary Object Detection,"Tianheng Cheng, Lin Song et al.", 2401.17270, https://github.com/AILab-CVC/YOLO-World
+topic, title, authors, paper, code, demo
+Open Vocabulary Object Detection, YOLO-World: Real-Time Open-Vocabulary Object Detection,"Tianheng Cheng et al.", 2401.17270, https://github.com/AILab-CVC/YOLO-World
+Object Detection, DETRs Beat YOLOs on Real-time Object Detection,"Wenyu Lv et al.", 2304.08069, https://github.com/lyuwenyu/RT-DETR?tab=readme-ov-file
+Generative AI, DemoFusion: Democratising High-Resolution Image Generation With No $$$,"Ruoyi Du et al.",2311.16973, https://github.com/PRIS-CV/DemoFusion
