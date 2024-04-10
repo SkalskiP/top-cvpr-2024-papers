@@ -3,6 +3,13 @@
   <a href="https://github.com/SkalskiP/top-cvpr-2023-papers">2023</a>
 </div>
 
+<br>
+
+<div align="center">
+  <img width="600" src="https://github.com/SkalskiP/top-cvpr-2023-papers/assets/26109316/2d7be39e-11a0-4298-ad90-c0645af0c5ac" alt="vancouver">
+  <p>photo from 2023; I will update in June</p>
+</div>
+
 ## 👋 hello
 
 Computer Vision and Pattern Recognition is a massive conference. In **2024** alone,
