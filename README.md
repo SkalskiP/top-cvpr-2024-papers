@@ -39,7 +39,7 @@ Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan
 
 Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma
 - **Date:** 2023-12-15
-- **Topics:** Image Generation"
+- **Topics:** Image Generation
     
 
 ### Alpha-CLIP: A CLIP Model Focusing on Wherever You Want
