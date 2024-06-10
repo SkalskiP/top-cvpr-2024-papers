@@ -27,7 +27,6 @@ looking for is not on my short list, take a peek at the full
 -->
 
 <p align="left">
-<a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30009.png?t=1717297681.2603958" title="YOLO-World: Real-Time Open-Vocabulary Object Detection"><img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30009.png?t=1717297681.2603958" alt="YOLO-World: Real-Time Open-Vocabulary Object Detection" width="400px" align="left" /></a>
 <a href="2401.17270" title="YOLO-World: Real-Time Open-Vocabulary Object Detection"><strong>YOLO-World: Real-Time Open-Vocabulary Object Detection</strong></a>
 <br/>
 Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan
@@ -36,7 +35,7 @@ Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan
 <br/>
 <strong>Topic:</strong> Recognition: Categorization, detection, retrieval
 <br/>
-<strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT
+<strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #223
 </p>
 
 <br/>
@@ -49,11 +48,11 @@ Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan
 <br/>
 Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen
 <br/>
-[<a href="https://arxiv.org/abs/2304.08069">paper</a>] [<a href="https://github.com/lyuwenyu/RT-DETR">code</a>]   
+[<a href="https://arxiv.org/abs/2304.08069">paper</a>] [<a href="https://github.com/lyuwenyu/RT-DETR">code</a>] [<a href="https://www.youtube.com/watch?v=UOc0qMSX4Ac">video</a>]  
 <br/>
 <strong>Topic:</strong> Recognition: Categorization, detection, retrieval
 <br/>
-<strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT
+<strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #229
 </p>
 
 <br/>
@@ -66,11 +65,11 @@ Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Y
 <br/>
 Zeyi Sun, Ye Fang, Tong Wu, Pan Zhang, Yuhang Zang, Shu Kong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang
 <br/>
-[<a href="https://arxiv.org/abs/2312.03818">paper</a>] [<a href="https://github.com/SunzeY/AlphaCLIP">code</a>]  [<a href="https://huggingface.co/spaces/Zery/Alpha-CLIP_LLaVA-1.5">demo</a>] 
+[<a href="https://arxiv.org/abs/2312.03818">paper</a>] [<a href="https://github.com/SunzeY/AlphaCLIP">code</a>] [<a href="https://youtu.be/QCEIKPZpZz0">video</a>] [<a href="https://huggingface.co/spaces/Zery/Alpha-CLIP_LLaVA-1.5">demo</a>] 
 <br/>
 <strong>Topic:</strong> Vision, language, and reasoning
 <br/>
-<strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT
+<strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #327
 </p>
 
 <br/>
@@ -86,7 +85,7 @@ Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma
 <br/>
 <strong>Topic:</strong> Image and video synthesis and generation
 <br/>
-<strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT
+<strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #132
 </p>
 
 <br/>
@@ -103,7 +102,7 @@ Yuxi Xiao, Qianqian Wang, Shangzhan Zhang, Nan Xue, Sida Peng, Yujun Shen, Xiaow
 <br/>
 <strong>Topic:</strong> 3D from multi-view and sensors
 <br/>
-<strong>Session:</strong> Fri 21 Jun 1:30 p.m. EDT — 3 p.m. EDT
+<strong>Session:</strong> Fri 21 Jun 1:30 p.m. EDT — 3 p.m. EDT #84
 </p>
 
 <br/>
