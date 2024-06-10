@@ -79,9 +79,11 @@ def format_entry(entry: Series) -> str:
 {badges}
 <br/>
 <strong>Topic:</strong> {topics}
+<br/>
 <strong>Session:</strong> {session}
 </p>
 
+<br/>
 <br/>
     """
 
@@ -95,9 +97,11 @@ def format_entry(entry: Series) -> str:
 {badges}
 <br/>
 <strong>Topic:</strong> {topics}
+<br/>
 <strong>Session:</strong> {session}
 </p>
 
+<br/>
 <br/>
     """
 
