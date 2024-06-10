@@ -70,22 +70,32 @@ def format_entry(entry: Series) -> str:
     badges = " ".join([arxiv_badge, code_badge, youtube_badge, huggingface_badge, colab_badge])
 
     if not poster:
-        return ""
-
-    return f"""
+        return f"""
 <p align="left">
-<img src="{poster}" alt="{title}" width="300px" align="left" />
 <a href="{paper_url}" title="{title}"><strong>{title}</strong></a>
 <br/>
 {authors}
 <br/>
 {badges}
 <br/>
-<ul>
-<li><strong>Topic:</strong> {topics}</li>
-<li><strong>Session:</strong> {session}</li>
-</ul>
+<strong>Topic:</strong> {topics}
+<strong>Session:</strong> {session}
+</p>
 
+<br/>
+    """
+
+    return f"""
+<p align="left">
+<a href="{poster}" title="{title}"><img src="{poster}" alt="{title}" width="400px" align="left" /></a>
+<a href="{paper_url}" title="{title}"><strong>{title}</strong></a>
+<br/>
+{authors}
+<br/>
+{badges}
+<br/>
+<strong>Topic:</strong> {topics}
+<strong>Session:</strong> {session}
 </p>
 
 <br/>

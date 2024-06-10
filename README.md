@@ -27,73 +27,74 @@ looking for is not on my short list, take a peek at the full
 -->
 
 <p align="left">
-<img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30009.png?t=1717297681.2603958" alt="YOLO-World: Real-Time Open-Vocabulary Object Detection" width="300px" align="left" />
+<a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30009.png?t=1717297681.2603958" title="YOLO-World: Real-Time Open-Vocabulary Object Detection"><img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30009.png?t=1717297681.2603958" alt="YOLO-World: Real-Time Open-Vocabulary Object Detection" width="400px" align="left" /></a>
 <a href="2401.17270" title="YOLO-World: Real-Time Open-Vocabulary Object Detection"><strong>YOLO-World: Real-Time Open-Vocabulary Object Detection</strong></a>
 <br/>
 Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan
 <br/>
 [<a href="https://arxiv.org/abs/2401.17270">paper</a>] [<a href="https://github.com/AILab-CVC/YOLO-World">code</a>] [<a href="https://youtu.be/X7gKBGVz4vs">video</a>] [<a href="https://huggingface.co/spaces/SkalskiP/YOLO-World">demo</a>] [<a href="https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-yolo-world.ipynb">colab</a>]
 <br/>
-<ul>
-<li><strong>Topic:</strong> Recognition: Categorization, detection, retrieval</li>
-<li><strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT</li>
-</ul>
-
+<strong>Topic:</strong> Recognition: Categorization, detection, retrieval
+<strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT
 </p>
 
 <br/>
     
 
 <p align="left">
-<img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31301.png?t=1717420504.9897285" alt="DETRs Beat YOLOs on Real-time Object Detection" width="300px" align="left" />
+<a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31301.png?t=1717420504.9897285" title="DETRs Beat YOLOs on Real-time Object Detection"><img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31301.png?t=1717420504.9897285" alt="DETRs Beat YOLOs on Real-time Object Detection" width="400px" align="left" /></a>
 <a href="2304.08069" title="DETRs Beat YOLOs on Real-time Object Detection"><strong>DETRs Beat YOLOs on Real-time Object Detection</strong></a>
 <br/>
 Yian Zhao, Wenyu Lv, Shangliang Xu, Jinman Wei, Guanzhong Wang, Qingqing Dang, Yi Liu, Jie Chen
 <br/>
 [<a href="https://arxiv.org/abs/2304.08069">paper</a>] [<a href="https://github.com/lyuwenyu/RT-DETR">code</a>]   
 <br/>
-<ul>
-<li><strong>Topic:</strong> Recognition: Categorization, detection, retrieval</li>
-<li><strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT</li>
-</ul>
-
+<strong>Topic:</strong> Recognition: Categorization, detection, retrieval
+<strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT
 </p>
 
 <br/>
     
 
 <p align="left">
-<img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31492.png?t=1717327133.6073072" alt="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want" width="300px" align="left" />
+<a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31492.png?t=1717327133.6073072" title="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want"><img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31492.png?t=1717327133.6073072" alt="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want" width="400px" align="left" /></a>
 <a href="2312.03818" title="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want"><strong>Alpha-CLIP: A CLIP Model Focusing on Wherever You Want</strong></a>
 <br/>
 Zeyi Sun, Ye Fang, Tong Wu, Pan Zhang, Yuhang Zang, Shu Kong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang
 <br/>
 [<a href="https://arxiv.org/abs/2312.03818">paper</a>] [<a href="https://github.com/SunzeY/AlphaCLIP">code</a>]  [<a href="https://huggingface.co/spaces/Zery/Alpha-CLIP_LLaVA-1.5">demo</a>] 
 <br/>
-<ul>
-<li><strong>Topic:</strong> Vision, language, and reasoning</li>
-<li><strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT</li>
-</ul>
-
+<strong>Topic:</strong> Vision, language, and reasoning
+<strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT
 </p>
 
 <br/>
     
 
+<p align="left">
+<a href="2311.16973" title="DemoFusion: Democratising High-Resolution Image Generation With No $$$"><strong>DemoFusion: Democratising High-Resolution Image Generation With No $$$</strong></a>
+<br/>
+Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma
+<br/>
+[<a href="https://arxiv.org/abs/2311.16973">paper</a>] [<a href="https://github.com/PRIS-CV/DemoFusion">code</a>]  [<a href="https://huggingface.co/spaces/radames/Enhance-This-DemoFusion-SDXL">demo</a>] [<a href="https://colab.research.google.com/github/camenduru/DemoFusion-colab/blob/main/DemoFusion_colab.ipynb">colab</a>]
+<br/>
+<strong>Topic:</strong> Image and video synthesis and generation
+<strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT
+</p>
+
+<br/>
+    
 
 <p align="left">
-<img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31668.png?t=1717417393.7589533" alt="SpatialTracker: Tracking Any 2D Pixels in 3D Space" width="300px" align="left" />
+<a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31668.png?t=1717417393.7589533" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space"><img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31668.png?t=1717417393.7589533" alt="SpatialTracker: Tracking Any 2D Pixels in 3D Space" width="400px" align="left" /></a>
 <a href="2404.04319" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space"><strong>SpatialTracker: Tracking Any 2D Pixels in 3D Space</strong></a>
 <br/>
 Yuxi Xiao, Qianqian Wang, Shangzhan Zhang, Nan Xue, Sida Peng, Yujun Shen, Xiaowei Zhou
 <br/>
 [<a href="https://arxiv.org/abs/2404.04319">paper</a>] [<a href="https://github.com/henry123-boy/SpaTracker">code</a>]   
 <br/>
-<ul>
-<li><strong>Topic:</strong> 3D from multi-view and sensors</li>
-<li><strong>Session:</strong> Fri 21 Jun 1:30 p.m. EDT — 3 p.m. EDT</li>
-</ul>
-
+<strong>Topic:</strong> 3D from multi-view and sensors
+<strong>Session:</strong> Fri 21 Jun 1:30 p.m. EDT — 3 p.m. EDT
 </p>
 
 <br/>
