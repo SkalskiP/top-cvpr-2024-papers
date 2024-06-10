@@ -7,8 +7,9 @@ from pandas.core.series import Series
 
 TITLE_COLUMN_NAME = "title"
 AUTHORS_COLUMN_NAME = "authors"
-DATE_COLUMN_NAME = "date"
-TOPICS_COLUMN_NAME = "topics"
+TOPIC_COLUMN_NAME = "topic"
+SESSION_COLUMN_NAME = "session"
+POSTER_COLUMN_NAME = "poster"
 PAPER_COLUMN_NAME = "paper"
 CODE_COLUMN_NAME = "code"
 HUGGINGFACE_SPACE_COLUMN_NAME = "huggingface"
@@ -24,11 +25,11 @@ WARNING_HEADER = [
     "-->"
 ]
 
-ARXIV_BADGE_PATTERN = "[![arXiv](https://img.shields.io/badge/arXiv-{}-b31b1b.svg)](https://arxiv.org/abs/{})"
-GITHUB_BADGE_PATTERN = "[![GitHub](https://badges.aleen42.com/src/github.svg)]({})"
-HUGGINGFACE_SPACE_BADGE_PATTERN = "[![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)]({})"
-COLAB_BADGE_PATTERN = "[![Colab](https://colab.research.google.com/assets/colab-badge.svg)]({})"
-YOUTUBE_BADGE_PATTERN = "[![YouTube](https://badges.aleen42.com/src/youtube.svg)]({})"
+ARXIV_BADGE_PATTERN = '[<a href="https://arxiv.org/abs/{}">paper</a>]'
+GITHUB_BADGE_PATTERN = '[<a href="{}">code</a>]'
+HUGGINGFACE_SPACE_BADGE_PATTERN = '[<a href="{}">demo</a>]'
+COLAB_BADGE_PATTERN = '[<a href="{}">colab</a>]'
+YOUTUBE_BADGE_PATTERN = '[<a href="{}">video</a>]'
 
 def read_lines_from_file(path: str) -> List[str]:
     """
@@ -52,27 +53,42 @@ def format_entry(entry: Series) -> str:
     Formats entry into Markdown table row, ensuring dates are formatted correctly.
     """
     title = entry.loc[TITLE_COLUMN_NAME]
-    date = entry.loc[DATE_COLUMN_NAME].strftime('%Y-%m-%d')
     authors = entry.loc[AUTHORS_COLUMN_NAME]
-    topics = entry.loc[TOPICS_COLUMN_NAME]
+    topics = entry.loc[TOPIC_COLUMN_NAME]
+    session = entry.loc[SESSION_COLUMN_NAME]
+    poster = entry.loc[POSTER_COLUMN_NAME]
     paper_url = entry.loc[PAPER_COLUMN_NAME]
     code_url = entry.loc[CODE_COLUMN_NAME]
     huggingface_url = entry.loc[HUGGINGFACE_SPACE_COLUMN_NAME]
     youtube_url = entry.loc[YOUTUBE_COLUMN_NAME]
     colab_url = entry.loc[COLAB_COLUMN_NAME]
-    arxiv_badge = ARXIV_BADGE_PATTERN.format(paper_url, paper_url) if paper_url else ""
+    arxiv_badge = ARXIV_BADGE_PATTERN.format(paper_url) if paper_url else ""
     code_badge = GITHUB_BADGE_PATTERN.format(code_url) if code_url else ""
     youtube_badge = YOUTUBE_BADGE_PATTERN.format(youtube_url) if youtube_url else ""
     huggingface_badge = HUGGINGFACE_SPACE_BADGE_PATTERN.format(huggingface_url) if huggingface_url else ""
     colab_badge = COLAB_BADGE_PATTERN.format(colab_url) if colab_url else ""
     badges = " ".join([arxiv_badge, code_badge, youtube_badge, huggingface_badge, colab_badge])
-    return f"""
-### {title}
-{badges}
 
+    if not poster:
+        return ""
+
+    return f"""
+<p align="left">
+<img src="{poster}" alt="{title}" width="300px" align="left" />
+<a href="{paper_url}" title="{title}"><strong>{title}</strong></a>
+<br/>
 {authors}
-- **Date:** {date}
-- **Topics:** {topics}
+<br/>
+{badges}
+<br/>
+<ul>
+<li><strong>Topic:</strong> {topics}</li>
+<li><strong>Session:</strong> {session}</li>
+</ul>
+
+</p>
+
+<br/>
     """
 
 
@@ -83,8 +99,6 @@ def load_table_entries(path: str) -> List[str]:
     df = pd.read_csv(path, quotechar='"', dtype=str)
     df.columns = df.columns.str.strip()
     df = df.fillna("")
-    df[DATE_COLUMN_NAME] = pd.to_datetime(df[DATE_COLUMN_NAME], dayfirst=True)
-    df.sort_values(by=DATE_COLUMN_NAME, ascending=False, inplace=True)
     return [
         format_entry(row)
         for _, row
