@@ -144,8 +144,8 @@ looking for is not on my short list, take a peek at the full
 ### segmentation, grouping and shape analysis
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29230.png?t=1717351041.620374" title="RobustSAM: Segment Anything Robustly on Degraded Images">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29230.png?t=1717351041.620374" alt="RobustSAM: Segment Anything Robustly on Degraded Images" width="400px" align="left" />
+    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/62d34981-73d6-49b2-8058-46ec99bac94d" title="RobustSAM: Segment Anything Robustly on Degraded Images">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/62d34981-73d6-49b2-8058-46ec99bac94d" alt="RobustSAM: Segment Anything Robustly on Degraded Images" width="400px" align="left" />
     </a>
     <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chen_RobustSAM_Segment_Anything_Robustly_on_Degraded_Images_CVPR_2024_paper.html" title="RobustSAM: Segment Anything Robustly on Degraded Images">
         <strong>RobustSAM: Segment Anything Robustly on Degraded Images</strong>
