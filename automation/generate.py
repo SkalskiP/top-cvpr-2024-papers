@@ -25,7 +25,7 @@ WARNING_HEADER = [
     "-->"
 ]
 
-ARXIV_BADGE_PATTERN = '[<a href="https://arxiv.org/abs/{}">paper</a>]'
+ARXIV_BADGE_PATTERN = '[<a href="{}">paper</a>]'
 GITHUB_BADGE_PATTERN = '[<a href="{}">code</a>]'
 HUGGINGFACE_SPACE_BADGE_PATTERN = '[<a href="{}">demo</a>]'
 COLAB_BADGE_PATTERN = '[<a href="{}">colab</a>]'
@@ -33,7 +33,7 @@ YOUTUBE_BADGE_PATTERN = '[<a href="{}">video</a>]'
 
 PAPER_WITHOUT_POSTER_PATTERN = """
 <p align="left">
-    <a href="https://arxiv.org/abs/{}" title="{}">
+    <a href="{}" title="{}">
         <strong>{}</strong>
     </a>
     <br/>
@@ -53,7 +53,7 @@ PAPER_WITH_POSTER_PATTERN = """
     <a href="{}" title="{}">
         <img src="{}" alt="{}" width="400px" align="left" />
     </a>
-    <a href="https://arxiv.org/abs/{}" title="{}">
+    <a href="{}" title="{}">
         <strong>{}</strong>
     </a>
     <br/>

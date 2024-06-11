@@ -141,6 +141,47 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
+### segmentation, grouping and shape analysis
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29230.png?t=1717351041.620374" title="RobustSAM: Segment Anything Robustly on Degraded Images">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29230.png?t=1717351041.620374" alt="RobustSAM: Segment Anything Robustly on Degraded Images" width="400px" align="left" />
+    </a>
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chen_RobustSAM_Segment_Anything_Robustly_on_Degraded_Images_CVPR_2024_paper.html" title="RobustSAM: Segment Anything Robustly on Degraded Images">
+        <strong>RobustSAM: Segment Anything Robustly on Degraded Images</strong>
+    </a>
+    <br/>
+    Wei-Ting Chen, Yu-Jiet Vong, Sy-Yen Kuo, Sizhou Ma, Jian Wang
+    <br/>
+    [<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chen_RobustSAM_Segment_Anything_Robustly_on_Degraded_Images_CVPR_2024_paper.html">paper</a>]  [<a href="https://www.youtube.com/watch?v=Awukqkbs6zM">video</a>]  
+    <br/>
+    <strong>Topic:</strong> Segmentation, grouping and shape analysis
+    <br/>
+    <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #378
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30253.png?t=1716781257.513028" title="Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30253.png?t=1716781257.513028" alt="Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation" width="400px" align="left" />
+    </a>
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Frozen_CLIP_A_Strong_Backbone_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.html" title="Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation">
+        <strong>Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation</strong>
+    </a>
+    <br/>
+    Bingfeng Zhang, Siyue Yu, Yunchao Wei, Yao Zhao, Jimin Xiao
+    <br/>
+    [<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Frozen_CLIP_A_Strong_Backbone_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.html">paper</a>] [<a href="https://github.com/zbf1991/WeCLIP">code</a>] [<a href="https://youtu.be/Lh489nTm_M0">video</a>]  
+    <br/>
+    <strong>Topic:</strong> Segmentation, grouping and shape analysis
+    <br/>
+    <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #351
+</p>
+<br/>
+<br/>
+
 ### video: low-level analysis, motion, and tracking
 
 <p align="left">
