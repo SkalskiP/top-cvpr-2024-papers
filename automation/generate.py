@@ -84,7 +84,6 @@ def format_entry(entry: Series) -> str:
 </p>
 
 <br/>
-<br/>
     """
 
     return f"""

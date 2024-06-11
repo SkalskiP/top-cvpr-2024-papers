@@ -27,22 +27,6 @@ looking for is not on my short list, take a peek at the full
 -->
 
 <p align="left">
-<a href="2401.17270" title="YOLO-World: Real-Time Open-Vocabulary Object Detection"><strong>YOLO-World: Real-Time Open-Vocabulary Object Detection</strong></a>
-<br/>
-Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan
-<br/>
-[<a href="https://arxiv.org/abs/2401.17270">paper</a>] [<a href="https://github.com/AILab-CVC/YOLO-World">code</a>] [<a href="https://youtu.be/X7gKBGVz4vs">video</a>] [<a href="https://huggingface.co/spaces/SkalskiP/YOLO-World">demo</a>] [<a href="https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-yolo-world.ipynb">colab</a>]
-<br/>
-<strong>Topic:</strong> Recognition: Categorization, detection, retrieval
-<br/>
-<strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #223
-</p>
-
-<br/>
-<br/>
-    
-
-<p align="left">
 <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31301.png?t=1717420504.9897285" title="DETRs Beat YOLOs on Real-time Object Detection"><img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31301.png?t=1717420504.9897285" alt="DETRs Beat YOLOs on Real-time Object Detection" width="400px" align="left" /></a>
 <a href="2304.08069" title="DETRs Beat YOLOs on Real-time Object Detection"><strong>DETRs Beat YOLOs on Real-time Object Detection</strong></a>
 <br/>
@@ -77,18 +61,17 @@ Zeyi Sun, Ye Fang, Tong Wu, Pan Zhang, Yuhang Zang, Shu Kong, Yuanjun Xiong, Dah
     
 
 <p align="left">
-<a href="2311.16973" title="DemoFusion: Democratising High-Resolution Image Generation With No $$$"><strong>DemoFusion: Democratising High-Resolution Image Generation With No $$$</strong></a>
+<a href="2401.17270" title="YOLO-World: Real-Time Open-Vocabulary Object Detection"><strong>YOLO-World: Real-Time Open-Vocabulary Object Detection</strong></a>
 <br/>
-Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma
+Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan
 <br/>
-[<a href="https://arxiv.org/abs/2311.16973">paper</a>] [<a href="https://github.com/PRIS-CV/DemoFusion">code</a>]  [<a href="https://huggingface.co/spaces/radames/Enhance-This-DemoFusion-SDXL">demo</a>] [<a href="https://colab.research.google.com/github/camenduru/DemoFusion-colab/blob/main/DemoFusion_colab.ipynb">colab</a>]
+[<a href="https://arxiv.org/abs/2401.17270">paper</a>] [<a href="https://github.com/AILab-CVC/YOLO-World">code</a>] [<a href="https://youtu.be/X7gKBGVz4vs">video</a>] [<a href="https://huggingface.co/spaces/SkalskiP/YOLO-World">demo</a>] [<a href="https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/zero-shot-object-detection-with-yolo-world.ipynb">colab</a>]
 <br/>
-<strong>Topic:</strong> Image and video synthesis and generation
+<strong>Topic:</strong> Recognition: Categorization, detection, retrieval
 <br/>
-<strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #132
+<strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #223
 </p>
 
-<br/>
 <br/>
     
 
@@ -122,6 +105,20 @@ Yunyang Xiong, Bala Varadarajan, Lemeng Wu, Xiaoyu Xiang, Fanyi Xiao, Chenchen Z
 </p>
 
 <br/>
+    
+
+<p align="left">
+<a href="2311.16973" title="DemoFusion: Democratising High-Resolution Image Generation With No $$$"><strong>DemoFusion: Democratising High-Resolution Image Generation With No $$$</strong></a>
+<br/>
+Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma
+<br/>
+[<a href="https://arxiv.org/abs/2311.16973">paper</a>] [<a href="https://github.com/PRIS-CV/DemoFusion">code</a>]  [<a href="https://huggingface.co/spaces/radames/Enhance-This-DemoFusion-SDXL">demo</a>] [<a href="https://colab.research.google.com/github/camenduru/DemoFusion-colab/blob/main/DemoFusion_colab.ipynb">colab</a>]
+<br/>
+<strong>Topic:</strong> Image and video synthesis and generation
+<br/>
+<strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #132
+</p>
+
 <br/>
     
 
@@ -137,7 +134,6 @@ Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie
 <strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #390
 </p>
 
-<br/>
 <br/>
     
 
