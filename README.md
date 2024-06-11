@@ -114,11 +114,44 @@ Yuxi Xiao, Qianqian Wang, Shangzhan Zhang, Nan Xue, Sida Peng, Yujun Shen, Xiaow
 <br/>
 Yunyang Xiong, Bala Varadarajan, Lemeng Wu, Xiaoyu Xiang, Fanyi Xiao, Chenchen Zhu, Xiaoliang Dai, Dilin Wang, Fei Sun, Forrest Iandola, Raghuraman Krishnamoorthi, Vikas Chandra
 <br/>
-[<a href="https://arxiv.org/abs/2312.00863">paper</a>] [<a href="https://github.com/yformer/EfficientSAM">code</a>]   
+[<a href="https://arxiv.org/abs/2312.00863">paper</a>] [<a href="https://github.com/yformer/EfficientSAM">code</a>]  [<a href="https://huggingface.co/spaces/SkalskiP/EfficientSAM">demo</a>] 
 <br/>
 <strong>Topic:</strong> Efficient and scalable vision
 <br/>
 <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #144
+</p>
+
+<br/>
+<br/>
+    
+
+<p align="left">
+<a href="2401.06209" title="Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs"><strong>Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs</strong></a>
+<br/>
+Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie
+<br/>
+[<a href="https://arxiv.org/abs/2401.06209">paper</a>] [<a href="https://github.com/tsb0601/MMVP">code</a>]   
+<br/>
+<strong>Topic:</strong> Vision, language, and reasoning
+<br/>
+<strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #390
+</p>
+
+<br/>
+<br/>
+    
+
+<p align="left">
+<a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31616.png?t=1716470830.0209699" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models"><img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31616.png?t=1716470830.0209699" alt="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models" width="400px" align="left" /></a>
+<a href="2403.01807" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models"><strong>ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models</strong></a>
+<br/>
+Lukas Höllein, Aljaž Božič, Norman Müller, David Novotny, Hung-Yu Tseng, Christian Richardt, Michael Zollhöfer, Matthias Nießner
+<br/>
+[<a href="https://arxiv.org/abs/2403.01807">paper</a>] [<a href="https://github.com/facebookresearch/ViewDiff">code</a>] [<a href="https://youtu.be/SdjoCqHzMMk">video</a>]  
+<br/>
+<strong>Topic:</strong> 3D from multi-view and sensors
+<br/>
+<strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #20
 </p>
 
 <br/>
