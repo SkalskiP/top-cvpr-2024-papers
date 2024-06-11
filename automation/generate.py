@@ -115,18 +115,24 @@ def format_entry(entry: Series) -> str:
         poster, title, poster, title, paper_url, title, title, authors, badges, topics, session)
 
 
-def load_table_entries(path: str) -> List[str]:
+def load_entries(path: str) -> List[str]:
     """
     Loads table entries from csv file, sorted by date in descending order and formats dates.
     """
     df = pd.read_csv(path, quotechar='"', dtype=str)
     df.columns = df.columns.str.strip()
     df = df.fillna("")
-    return [
-        format_entry(row)
-        for _, row
-        in df.iterrows()
-    ]
+
+    entries = []
+    df_dict = {topic: group_df for topic, group_df in df.groupby(TOPIC_COLUMN_NAME)}
+    for topic, group_df in df_dict.items():
+        entries.append(f"### {topic.lower()}")
+        entries += [
+            format_entry(row)
+            for _, row
+            in group_df.iterrows()
+        ]
+    return entries
 
 
 def search_lines_with_token(lines: List[str], token: str) -> List[int]:
@@ -164,7 +170,7 @@ if __name__ == "__main__":
     parser.add_argument('-r', '--readme_path', default='README.md')
     args = parser.parse_args()
 
-    table_lines = load_table_entries(path=args.data_path)
+    table_lines = load_entries(path=args.data_path)
     table_lines = WARNING_HEADER + table_lines
     readme_lines = read_lines_from_file(path=args.readme_path)
     readme_lines = inject_papers_list_into_readme(readme_lines=readme_lines,

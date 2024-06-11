@@ -25,6 +25,82 @@ looking for is not on my short list, take a peek at the full
    WARNING: DO NOT EDIT THIS LIST MANUALLY. IT IS AUTOMATICALLY GENERATED.
    HEAD OVER TO https://github.com/SkalskiP/top-cvpr-2024-papers/blob/master/CONTRIBUTING.md FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
+### 3d from multi-view and sensors
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31668.png?t=1717417393.7589533" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31668.png?t=1717417393.7589533" alt="SpatialTracker: Tracking Any 2D Pixels in 3D Space" width="400px" align="left" />
+    </a>
+    <a href="2404.04319" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space">
+        <strong>SpatialTracker: Tracking Any 2D Pixels in 3D Space</strong>
+    </a>
+    <br/>
+    Yuxi Xiao, Qianqian Wang, Shangzhan Zhang, Nan Xue, Sida Peng, Yujun Shen, Xiaowei Zhou
+    <br/>
+    [<a href="https://arxiv.org/abs/2404.04319">paper</a>] [<a href="https://github.com/henry123-boy/SpaTracker">code</a>]   
+    <br/>
+    <strong>Topic:</strong> 3D from multi-view and sensors
+    <br/>
+    <strong>Session:</strong> Fri 21 Jun 1:30 p.m. EDT — 3 p.m. EDT #84
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31616.png?t=1716470830.0209699" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31616.png?t=1716470830.0209699" alt="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models" width="400px" align="left" />
+    </a>
+    <a href="2403.01807" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models">
+        <strong>ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models</strong>
+    </a>
+    <br/>
+    Lukas Höllein, Aljaž Božič, Norman Müller, David Novotny, Hung-Yu Tseng, Christian Richardt, Michael Zollhöfer, Matthias Nießner
+    <br/>
+    [<a href="https://arxiv.org/abs/2403.01807">paper</a>] [<a href="https://github.com/facebookresearch/ViewDiff">code</a>] [<a href="https://youtu.be/SdjoCqHzMMk">video</a>]  
+    <br/>
+    <strong>Topic:</strong> 3D from multi-view and sensors
+    <br/>
+    <strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #20
+</p>
+<br/>
+<br/>
+
+### efficient and scalable vision
+
+<p align="left">
+    <a href="2312.00863" title="EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything">
+        <strong>EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything</strong>
+    </a>
+    <br/>
+    Yunyang Xiong, Bala Varadarajan, Lemeng Wu, Xiaoyu Xiang, Fanyi Xiao, Chenchen Zhu, Xiaoliang Dai, Dilin Wang, Fei Sun, Forrest Iandola, Raghuraman Krishnamoorthi, Vikas Chandra
+    <br/>
+    [<a href="https://arxiv.org/abs/2312.00863">paper</a>] [<a href="https://github.com/yformer/EfficientSAM">code</a>]  [<a href="https://huggingface.co/spaces/SkalskiP/EfficientSAM">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Efficient and scalable vision
+    <br/>
+    <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #144
+</p>
+<br/>
+
+### image and video synthesis and generation
+
+<p align="left">
+    <a href="2311.16973" title="DemoFusion: Democratising High-Resolution Image Generation With No $$$">
+        <strong>DemoFusion: Democratising High-Resolution Image Generation With No $$$</strong>
+    </a>
+    <br/>
+    Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma
+    <br/>
+    [<a href="https://arxiv.org/abs/2311.16973">paper</a>] [<a href="https://github.com/PRIS-CV/DemoFusion">code</a>]  [<a href="https://huggingface.co/spaces/radames/Enhance-This-DemoFusion-SDXL">demo</a>] [<a href="https://colab.research.google.com/github/camenduru/DemoFusion-colab/blob/main/DemoFusion_colab.ipynb">colab</a>]
+    <br/>
+    <strong>Topic:</strong> Image and video synthesis and generation
+    <br/>
+    <strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #132
+</p>
+<br/>
+
+### recognition: categorization, detection, retrieval
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31301.png?t=1717420504.9897285" title="DETRs Beat YOLOs on Real-time Object Detection">
@@ -41,26 +117,6 @@ looking for is not on my short list, take a peek at the full
     <strong>Topic:</strong> Recognition: Categorization, detection, retrieval
     <br/>
     <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #229
-</p>
-<br/>
-<br/>
-
-
-<p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31492.png?t=1717327133.6073072" title="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31492.png?t=1717327133.6073072" alt="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want" width="400px" align="left" />
-    </a>
-    <a href="2312.03818" title="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want">
-        <strong>Alpha-CLIP: A CLIP Model Focusing on Wherever You Want</strong>
-    </a>
-    <br/>
-    Zeyi Sun, Ye Fang, Tong Wu, Pan Zhang, Yuhang Zang, Shu Kong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang
-    <br/>
-    [<a href="https://arxiv.org/abs/2312.03818">paper</a>] [<a href="https://github.com/SunzeY/AlphaCLIP">code</a>] [<a href="https://youtu.be/QCEIKPZpZz0">video</a>] [<a href="https://huggingface.co/spaces/Zery/Alpha-CLIP_LLaVA-1.5">demo</a>] 
-    <br/>
-    <strong>Topic:</strong> Vision, language, and reasoning
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #327
 </p>
 <br/>
 <br/>
@@ -85,114 +141,7 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
-
-<p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31668.png?t=1717417393.7589533" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31668.png?t=1717417393.7589533" alt="SpatialTracker: Tracking Any 2D Pixels in 3D Space" width="400px" align="left" />
-    </a>
-    <a href="2404.04319" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space">
-        <strong>SpatialTracker: Tracking Any 2D Pixels in 3D Space</strong>
-    </a>
-    <br/>
-    Yuxi Xiao, Qianqian Wang, Shangzhan Zhang, Nan Xue, Sida Peng, Yujun Shen, Xiaowei Zhou
-    <br/>
-    [<a href="https://arxiv.org/abs/2404.04319">paper</a>] [<a href="https://github.com/henry123-boy/SpaTracker">code</a>]   
-    <br/>
-    <strong>Topic:</strong> 3D from multi-view and sensors
-    <br/>
-    <strong>Session:</strong> Fri 21 Jun 1:30 p.m. EDT — 3 p.m. EDT #84
-</p>
-<br/>
-<br/>
-
-
-<p align="left">
-    <a href="2312.00863" title="EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything">
-        <strong>EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything</strong>
-    </a>
-    <br/>
-    Yunyang Xiong, Bala Varadarajan, Lemeng Wu, Xiaoyu Xiang, Fanyi Xiao, Chenchen Zhu, Xiaoliang Dai, Dilin Wang, Fei Sun, Forrest Iandola, Raghuraman Krishnamoorthi, Vikas Chandra
-    <br/>
-    [<a href="https://arxiv.org/abs/2312.00863">paper</a>] [<a href="https://github.com/yformer/EfficientSAM">code</a>]  [<a href="https://huggingface.co/spaces/SkalskiP/EfficientSAM">demo</a>] 
-    <br/>
-    <strong>Topic:</strong> Efficient and scalable vision
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #144
-</p>
-<br/>
-
-
-<p align="left">
-    <a href="2311.16973" title="DemoFusion: Democratising High-Resolution Image Generation With No $$$">
-        <strong>DemoFusion: Democratising High-Resolution Image Generation With No $$$</strong>
-    </a>
-    <br/>
-    Ruoyi Du, Dongliang Chang, Timothy Hospedales, Yi-Zhe Song, Zhanyu Ma
-    <br/>
-    [<a href="https://arxiv.org/abs/2311.16973">paper</a>] [<a href="https://github.com/PRIS-CV/DemoFusion">code</a>]  [<a href="https://huggingface.co/spaces/radames/Enhance-This-DemoFusion-SDXL">demo</a>] [<a href="https://colab.research.google.com/github/camenduru/DemoFusion-colab/blob/main/DemoFusion_colab.ipynb">colab</a>]
-    <br/>
-    <strong>Topic:</strong> Image and video synthesis and generation
-    <br/>
-    <strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #132
-</p>
-<br/>
-
-
-<p align="left">
-    <a href="2401.06209" title="Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs">
-        <strong>Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs</strong>
-    </a>
-    <br/>
-    Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie
-    <br/>
-    [<a href="https://arxiv.org/abs/2401.06209">paper</a>] [<a href="https://github.com/tsb0601/MMVP">code</a>]   
-    <br/>
-    <strong>Topic:</strong> Vision, language, and reasoning
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #390
-</p>
-<br/>
-
-
-<p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31616.png?t=1716470830.0209699" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31616.png?t=1716470830.0209699" alt="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models" width="400px" align="left" />
-    </a>
-    <a href="2403.01807" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models">
-        <strong>ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models</strong>
-    </a>
-    <br/>
-    Lukas Höllein, Aljaž Božič, Norman Müller, David Novotny, Hung-Yu Tseng, Christian Richardt, Michael Zollhöfer, Matthias Nießner
-    <br/>
-    [<a href="https://arxiv.org/abs/2403.01807">paper</a>] [<a href="https://github.com/facebookresearch/ViewDiff">code</a>] [<a href="https://youtu.be/SdjoCqHzMMk">video</a>]  
-    <br/>
-    <strong>Topic:</strong> 3D from multi-view and sensors
-    <br/>
-    <strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #20
-</p>
-<br/>
-<br/>
-
-
-<p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30109.png?t=1717509456.89997" title="LISA: Reasoning Segmentation via Large Language Model">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30109.png?t=1717509456.89997" alt="LISA: Reasoning Segmentation via Large Language Model" width="400px" align="left" />
-    </a>
-    <a href="2308.00692" title="LISA: Reasoning Segmentation via Large Language Model">
-        <strong>LISA: Reasoning Segmentation via Large Language Model</strong>
-    </a>
-    <br/>
-    Xin Lai, Zhuotao Tian, Yukang Chen, Yanwei Li, Yuhui Yuan, Shu Liu, Jiaya Jia
-    <br/>
-    [<a href="https://arxiv.org/abs/2308.00692">paper</a>] [<a href="https://github.com/dvlab-research/LISA">code</a>]  [<a href="http://103.170.5.190:7870/">demo</a>] 
-    <br/>
-    <strong>Topic:</strong> Vision, language, and reasoning
-    <br/>
-    <strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #413
-</p>
-<br/>
-<br/>
-
+### video: low-level analysis, motion, and tracking
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29590.png?t=1717456006.3308516" title="Matching Anything by Segmenting Anything">
@@ -229,6 +178,63 @@ looking for is not on my short list, take a peek at the full
     <strong>Topic:</strong> Video: Low-level analysis, motion, and tracking
     <br/>
     <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #455
+</p>
+<br/>
+<br/>
+
+### vision, language, and reasoning
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31492.png?t=1717327133.6073072" title="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31492.png?t=1717327133.6073072" alt="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want" width="400px" align="left" />
+    </a>
+    <a href="2312.03818" title="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want">
+        <strong>Alpha-CLIP: A CLIP Model Focusing on Wherever You Want</strong>
+    </a>
+    <br/>
+    Zeyi Sun, Ye Fang, Tong Wu, Pan Zhang, Yuhang Zang, Shu Kong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang
+    <br/>
+    [<a href="https://arxiv.org/abs/2312.03818">paper</a>] [<a href="https://github.com/SunzeY/AlphaCLIP">code</a>] [<a href="https://youtu.be/QCEIKPZpZz0">video</a>] [<a href="https://huggingface.co/spaces/Zery/Alpha-CLIP_LLaVA-1.5">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Vision, language, and reasoning
+    <br/>
+    <strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #327
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="2401.06209" title="Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs">
+        <strong>Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs</strong>
+    </a>
+    <br/>
+    Shengbang Tong, Zhuang Liu, Yuexiang Zhai, Yi Ma, Yann LeCun, Saining Xie
+    <br/>
+    [<a href="https://arxiv.org/abs/2401.06209">paper</a>] [<a href="https://github.com/tsb0601/MMVP">code</a>]   
+    <br/>
+    <strong>Topic:</strong> Vision, language, and reasoning
+    <br/>
+    <strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #390
+</p>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30109.png?t=1717509456.89997" title="LISA: Reasoning Segmentation via Large Language Model">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30109.png?t=1717509456.89997" alt="LISA: Reasoning Segmentation via Large Language Model" width="400px" align="left" />
+    </a>
+    <a href="2308.00692" title="LISA: Reasoning Segmentation via Large Language Model">
+        <strong>LISA: Reasoning Segmentation via Large Language Model</strong>
+    </a>
+    <br/>
+    Xin Lai, Zhuotao Tian, Yukang Chen, Yanwei Li, Yuhui Yuan, Shu Liu, Jiaya Jia
+    <br/>
+    [<a href="https://arxiv.org/abs/2308.00692">paper</a>] [<a href="https://github.com/dvlab-research/LISA">code</a>]  [<a href="http://103.170.5.190:7870/">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Vision, language, and reasoning
+    <br/>
+    <strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #413
 </p>
 <br/>
 <br/>
