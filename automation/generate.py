@@ -33,7 +33,7 @@ YOUTUBE_BADGE_PATTERN = '[<a href="{}">video</a>]'
 
 PAPER_WITHOUT_POSTER_PATTERN = """
 <p align="left">
-    <a href="{}" title="{}">
+    <a href="https://arxiv.org/abs/{}" title="{}">
         <strong>{}</strong>
     </a>
     <br/>
@@ -53,7 +53,7 @@ PAPER_WITH_POSTER_PATTERN = """
     <a href="{}" title="{}">
         <img src="{}" alt="{}" width="400px" align="left" />
     </a>
-    <a href="{}" title="{}">
+    <a href="https://arxiv.org/abs/{}" title="{}">
         <strong>{}</strong>
     </a>
     <br/>
@@ -95,12 +95,12 @@ def format_entry(entry: Series) -> str:
     topics = entry.loc[TOPIC_COLUMN_NAME]
     session = entry.loc[SESSION_COLUMN_NAME]
     poster = entry.loc[POSTER_COLUMN_NAME]
-    paper_url = entry.loc[PAPER_COLUMN_NAME]
+    paper_id = entry.loc[PAPER_COLUMN_NAME]
     code_url = entry.loc[CODE_COLUMN_NAME]
     huggingface_url = entry.loc[HUGGINGFACE_SPACE_COLUMN_NAME]
     youtube_url = entry.loc[YOUTUBE_COLUMN_NAME]
     colab_url = entry.loc[COLAB_COLUMN_NAME]
-    arxiv_badge = ARXIV_BADGE_PATTERN.format(paper_url) if paper_url else ""
+    arxiv_badge = ARXIV_BADGE_PATTERN.format(paper_id) if paper_id else ""
     code_badge = GITHUB_BADGE_PATTERN.format(code_url) if code_url else ""
     youtube_badge = YOUTUBE_BADGE_PATTERN.format(youtube_url) if youtube_url else ""
     huggingface_badge = HUGGINGFACE_SPACE_BADGE_PATTERN.format(huggingface_url) if huggingface_url else ""
@@ -109,10 +109,10 @@ def format_entry(entry: Series) -> str:
 
     if not poster:
         return PAPER_WITHOUT_POSTER_PATTERN.format(
-            paper_url, title, title, authors, badges, topics, session)
+            paper_id, title, title, authors, badges, topics, session)
 
     return PAPER_WITH_POSTER_PATTERN.format(
-        poster, title, poster, title, paper_url, title, title, authors, badges, topics, session)
+        poster, title, poster, title, paper_id, title, title, authors, badges, topics, session)
 
 
 def load_entries(path: str) -> List[str]:

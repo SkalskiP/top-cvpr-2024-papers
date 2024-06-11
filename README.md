@@ -31,7 +31,7 @@ looking for is not on my short list, take a peek at the full
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31668.png?t=1717417393.7589533" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space">
         <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31668.png?t=1717417393.7589533" alt="SpatialTracker: Tracking Any 2D Pixels in 3D Space" width="400px" align="left" />
     </a>
-    <a href="2404.04319" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space">
+    <a href="https://arxiv.org/abs/2404.04319" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space">
         <strong>SpatialTracker: Tracking Any 2D Pixels in 3D Space</strong>
     </a>
     <br/>
@@ -51,7 +51,7 @@ looking for is not on my short list, take a peek at the full
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31616.png?t=1716470830.0209699" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models">
         <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31616.png?t=1716470830.0209699" alt="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models" width="400px" align="left" />
     </a>
-    <a href="2403.01807" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models">
+    <a href="https://arxiv.org/abs/2403.01807" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models">
         <strong>ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models</strong>
     </a>
     <br/>
@@ -69,7 +69,7 @@ looking for is not on my short list, take a peek at the full
 ### efficient and scalable vision
 
 <p align="left">
-    <a href="2312.00863" title="EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything">
+    <a href="https://arxiv.org/abs/2312.00863" title="EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything">
         <strong>EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything</strong>
     </a>
     <br/>
@@ -86,7 +86,7 @@ looking for is not on my short list, take a peek at the full
 ### image and video synthesis and generation
 
 <p align="left">
-    <a href="2311.16973" title="DemoFusion: Democratising High-Resolution Image Generation With No $$$">
+    <a href="https://arxiv.org/abs/2311.16973" title="DemoFusion: Democratising High-Resolution Image Generation With No $$$">
         <strong>DemoFusion: Democratising High-Resolution Image Generation With No $$$</strong>
     </a>
     <br/>
@@ -106,7 +106,7 @@ looking for is not on my short list, take a peek at the full
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31301.png?t=1717420504.9897285" title="DETRs Beat YOLOs on Real-time Object Detection">
         <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31301.png?t=1717420504.9897285" alt="DETRs Beat YOLOs on Real-time Object Detection" width="400px" align="left" />
     </a>
-    <a href="2304.08069" title="DETRs Beat YOLOs on Real-time Object Detection">
+    <a href="https://arxiv.org/abs/2304.08069" title="DETRs Beat YOLOs on Real-time Object Detection">
         <strong>DETRs Beat YOLOs on Real-time Object Detection</strong>
     </a>
     <br/>
@@ -126,7 +126,7 @@ looking for is not on my short list, take a peek at the full
     <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/f9023a28-aca5-4965-a194-984c62348dc0" title="YOLO-World: Real-Time Open-Vocabulary Object Detection">
         <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/f9023a28-aca5-4965-a194-984c62348dc0" alt="YOLO-World: Real-Time Open-Vocabulary Object Detection" width="400px" align="left" />
     </a>
-    <a href="2401.17270" title="YOLO-World: Real-Time Open-Vocabulary Object Detection">
+    <a href="https://arxiv.org/abs/2401.17270" title="YOLO-World: Real-Time Open-Vocabulary Object Detection">
         <strong>YOLO-World: Real-Time Open-Vocabulary Object Detection</strong>
     </a>
     <br/>
@@ -147,7 +147,7 @@ looking for is not on my short list, take a peek at the full
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29590.png?t=1717456006.3308516" title="Matching Anything by Segmenting Anything">
         <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29590.png?t=1717456006.3308516" alt="Matching Anything by Segmenting Anything" width="400px" align="left" />
     </a>
-    <a href="2406.04221" title="Matching Anything by Segmenting Anything">
+    <a href="https://arxiv.org/abs/2406.04221" title="Matching Anything by Segmenting Anything">
         <strong>Matching Anything by Segmenting Anything</strong>
     </a>
     <br/>
@@ -167,7 +167,7 @@ looking for is not on my short list, take a peek at the full
     <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/9711186c-b05b-472d-b095-d98dbe386171" title="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction">
         <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/9711186c-b05b-472d-b095-d98dbe386171" alt="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction" width="400px" align="left" />
     </a>
-    <a href="2403.02075" title="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction">
+    <a href="https://arxiv.org/abs/2403.02075" title="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction">
         <strong>DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction</strong>
     </a>
     <br/>
@@ -188,7 +188,7 @@ looking for is not on my short list, take a peek at the full
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31492.png?t=1717327133.6073072" title="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want">
         <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31492.png?t=1717327133.6073072" alt="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want" width="400px" align="left" />
     </a>
-    <a href="2312.03818" title="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want">
+    <a href="https://arxiv.org/abs/2312.03818" title="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want">
         <strong>Alpha-CLIP: A CLIP Model Focusing on Wherever You Want</strong>
     </a>
     <br/>
@@ -205,7 +205,7 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
-    <a href="2401.06209" title="Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs">
+    <a href="https://arxiv.org/abs/2401.06209" title="Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs">
         <strong>Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs</strong>
     </a>
     <br/>
@@ -224,7 +224,7 @@ looking for is not on my short list, take a peek at the full
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30109.png?t=1717509456.89997" title="LISA: Reasoning Segmentation via Large Language Model">
         <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30109.png?t=1717509456.89997" alt="LISA: Reasoning Segmentation via Large Language Model" width="400px" align="left" />
     </a>
-    <a href="2308.00692" title="LISA: Reasoning Segmentation via Large Language Model">
+    <a href="https://arxiv.org/abs/2308.00692" title="LISA: Reasoning Segmentation via Large Language Model">
         <strong>LISA: Reasoning Segmentation via Large Language Model</strong>
     </a>
     <br/>
