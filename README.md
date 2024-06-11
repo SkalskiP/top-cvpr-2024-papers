@@ -67,6 +67,9 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
+    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/f9023a28-aca5-4965-a194-984c62348dc0" title="YOLO-World: Real-Time Open-Vocabulary Object Detection">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/f9023a28-aca5-4965-a194-984c62348dc0" alt="YOLO-World: Real-Time Open-Vocabulary Object Detection" width="400px" align="left" />
+    </a>
     <a href="2401.17270" title="YOLO-World: Real-Time Open-Vocabulary Object Detection">
         <strong>YOLO-World: Real-Time Open-Vocabulary Object Detection</strong>
     </a>
@@ -79,6 +82,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #223
 </p>
+<br/>
 <br/>
 
 
@@ -211,8 +215,8 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29206.png?t=1717393674.472023" title="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29206.png?t=1717393674.472023" alt="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction" width="400px" align="left" />
+    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/9711186c-b05b-472d-b095-d98dbe386171" title="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/9711186c-b05b-472d-b095-d98dbe386171" alt="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction" width="400px" align="left" />
     </a>
     <a href="2403.02075" title="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction">
         <strong>DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction</strong>
