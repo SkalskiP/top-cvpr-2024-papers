@@ -31,6 +31,44 @@ HUGGINGFACE_SPACE_BADGE_PATTERN = '[<a href="{}">demo</a>]'
 COLAB_BADGE_PATTERN = '[<a href="{}">colab</a>]'
 YOUTUBE_BADGE_PATTERN = '[<a href="{}">video</a>]'
 
+PAPER_WITHOUT_POSTER_PATTERN = """
+<p align="left">
+    <a href="{}" title="{}">
+        <strong>{}</strong>
+    </a>
+    <br/>
+    {}
+    <br/>
+    {}
+    <br/>
+    <strong>Topic:</strong> {}
+    <br/>
+    <strong>Session:</strong> {}
+</p>
+<br/>
+"""
+
+PAPER_WITH_POSTER_PATTERN = """
+<p align="left">
+    <a href="{}" title="{}">
+        <img src="{}" alt="{}" width="400px" align="left" />
+    </a>
+    <a href="{}" title="{}">
+        <strong>{}</strong>
+    </a>
+    <br/>
+    {}
+    <br/>
+    {}
+    <br/>
+    <strong>Topic:</strong> {}
+    <br/>
+    <strong>Session:</strong> {}
+</p>
+<br/>
+<br/>
+"""
+
 def read_lines_from_file(path: str) -> List[str]:
     """
     Reads lines from file and strips trailing whitespaces.
@@ -70,39 +108,11 @@ def format_entry(entry: Series) -> str:
     badges = " ".join([arxiv_badge, code_badge, youtube_badge, huggingface_badge, colab_badge])
 
     if not poster:
-        return f"""
-<p align="left">
-<a href="{paper_url}" title="{title}"><strong>{title}</strong></a>
-<br/>
-{authors}
-<br/>
-{badges}
-<br/>
-<strong>Topic:</strong> {topics}
-<br/>
-<strong>Session:</strong> {session}
-</p>
+        return PAPER_WITHOUT_POSTER_PATTERN.format(
+            paper_url, title, title, authors, badges, topics, session)
 
-<br/>
-    """
-
-    return f"""
-<p align="left">
-<a href="{poster}" title="{title}"><img src="{poster}" alt="{title}" width="400px" align="left" /></a>
-<a href="{paper_url}" title="{title}"><strong>{title}</strong></a>
-<br/>
-{authors}
-<br/>
-{badges}
-<br/>
-<strong>Topic:</strong> {topics}
-<br/>
-<strong>Session:</strong> {session}
-</p>
-
-<br/>
-<br/>
-    """
+    return PAPER_WITH_POSTER_PATTERN.format(
+        poster, title, poster, title, paper_url, title, title, authors, badges, topics, session)
 
 
 def load_table_entries(path: str) -> List[str]:
