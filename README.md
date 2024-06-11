@@ -284,8 +284,8 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29580.png?t=1717459277.236059" title="ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29580.png?t=1717459277.236059" alt="ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts" width="400px" align="left" />
+    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/53e03a08-4dd9-451a-975e-e3654fa5bc71" title="ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/53e03a08-4dd9-451a-975e-e3654fa5bc71" alt="ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2312.00784" title="ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts">
         <strong>ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts</strong>
