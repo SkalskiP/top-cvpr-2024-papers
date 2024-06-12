@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SkalskiP.top-cvpr-2024-papers)
+
 <div align="center">
   <h1 align="center">top CVPR 2024 papers</h1>
   <a href="https://github.com/SkalskiP/top-cvpr-2023-papers">2023</a>
