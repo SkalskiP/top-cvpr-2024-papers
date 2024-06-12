@@ -102,6 +102,26 @@ looking for is not on my short list, take a peek at the full
 </p>
 <br/>
 
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31643.png?t=1717479939.0844178" title="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31643.png?t=1717479939.0844178" alt="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2306.14435" title="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing">
+        <strong>🔥 DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing</strong>
+    </a>
+    <br/>
+    Yujun Shi, Chuhui Xue, Jun Hao Liew, Jiachun Pan, Hanshu Yan, Wenqing Zhang, Vincent Y. F. Tan, Song Bai
+    <br/>
+    [<a href="https://arxiv.org/abs/2306.14435">paper</a>] [<a href="https://github.com/Yujun-Shi/DragDiffusion">code</a>] [<a href="https://youtu.be/rysOFTpDBhc">video</a>]  
+    <br/>
+    <strong>Topic:</strong> Image and video synthesis and generation
+    <br/>
+    <strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #392
+</p>
+<br/>
+<br/>
+
 ### recognition: categorization, detection, retrieval
 
 <p align="left">
