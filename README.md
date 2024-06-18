@@ -89,8 +89,8 @@ looking for is not on my short list, take a peek at the full
 ### document analysis and understanding
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29557.png?t=1717325755.5401347" title="DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29557.png?t=1717325755.5401347" alt="DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks" width="400px" align="left" />
+    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/ba0cae38-392e-4018-8955-e02ec5d15e71" title="DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/ba0cae38-392e-4018-8955-e02ec5d15e71" alt="DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2405.04408" title="DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks">
         <strong>DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks</strong>
@@ -143,8 +143,8 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31643.png?t=1717479939.0844178" title="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31643.png?t=1717479939.0844178" alt="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing" width="400px" align="left" />
+    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/b0833f6b-6924-4f28-b409-ae85aaaa4dd6" title="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/b0833f6b-6924-4f28-b409-ae85aaaa4dd6" alt="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2306.14435" title="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing">
         <strong>🔥 DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing</strong>
@@ -164,8 +164,8 @@ looking for is not on my short list, take a peek at the full
 ### low-level vision
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30048.png?t=1717280821.533515" title="XFeat: Accelerated Features for Lightweight Image Matching">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30048.png?t=1717280821.533515" alt="XFeat: Accelerated Features for Lightweight Image Matching" width="400px" align="left" />
+    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/8eb6b4f0-4ae6-4615-9921-f73fa2aa3766" title="XFeat: Accelerated Features for Lightweight Image Matching">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/8eb6b4f0-4ae6-4615-9921-f73fa2aa3766" alt="XFeat: Accelerated Features for Lightweight Image Matching" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2404.19174" title="XFeat: Accelerated Features for Lightweight Image Matching">
         <strong>XFeat: Accelerated Features for Lightweight Image Matching</strong>
