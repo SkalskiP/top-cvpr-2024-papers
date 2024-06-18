@@ -182,6 +182,23 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
+### multi-modal learning
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2310.03744" title="Improved Baselines with Visual Instruction Tuning">
+        <strong>🔥 Improved Baselines with Visual Instruction Tuning</strong>
+    </a>
+    <br/>
+    Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee
+    <br/>
+    [<a href="https://arxiv.org/abs/2310.03744">paper</a>] [<a href="https://github.com/LLaVA-VL/LLaVA-NeXT">code</a>]   
+    <br/>
+    <strong>Topic:</strong> Multi-modal learning
+    <br/>
+    <strong>Session:</strong> Fri 21 Jun 8 p.m. EDT — 9:30 p.m. EDT #209
+</p>
+<br/>
+
 ### recognition: categorization, detection, retrieval
 
 <p align="left">
