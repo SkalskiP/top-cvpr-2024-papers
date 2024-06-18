@@ -70,6 +70,43 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2405.12979" title="OmniGlue: Generalizable Feature Matching with Foundation Model Guidance">
+        <strong>OmniGlue: Generalizable Feature Matching with Foundation Model Guidance</strong>
+    </a>
+    <br/>
+    Hanwen Jiang, Arjun Karpur, Bingyi Cao, Qixing Huang, Andre Araujo
+    <br/>
+    [<a href="https://arxiv.org/abs/2405.12979">paper</a>] [<a href="https://github.com/google-research/omniglue">code</a>]  [<a href="https://huggingface.co/spaces/qubvel-hf/omniglue">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> 3D from multi-view and sensors
+    <br/>
+    <strong>Session:</strong> Fri 21 Jun 1:30 p.m. EDT — 3 p.m. EDT #32
+</p>
+<br/>
+
+### document analysis and understanding
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29557.png?t=1717325755.5401347" title="DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29557.png?t=1717325755.5401347" alt="DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2405.04408" title="DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks">
+        <strong>DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks</strong>
+    </a>
+    <br/>
+    Jiaxin Zhang, Dezhi Peng, Chongyu Liu, Peirong Zhang, Lianwen Jin
+    <br/>
+    [<a href="https://arxiv.org/abs/2405.04408">paper</a>] [<a href="https://github.com/ZZZHANG-jx/DocRes">code</a>]  [<a href="https://huggingface.co/spaces/qubvel-hf/documents-restoration">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Document analysis and understanding
+    <br/>
+    <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #101
+</p>
+<br/>
+<br/>
+
 ### efficient and scalable vision
 
 <p align="left">
@@ -120,6 +157,27 @@ looking for is not on my short list, take a peek at the full
     <strong>Topic:</strong> Image and video synthesis and generation
     <br/>
     <strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #392
+</p>
+<br/>
+<br/>
+
+### low-level vision
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30048.png?t=1717280821.533515" title="XFeat: Accelerated Features for Lightweight Image Matching">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30048.png?t=1717280821.533515" alt="XFeat: Accelerated Features for Lightweight Image Matching" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2404.19174" title="XFeat: Accelerated Features for Lightweight Image Matching">
+        <strong>XFeat: Accelerated Features for Lightweight Image Matching</strong>
+    </a>
+    <br/>
+    Guilherme Potje, Felipe Cadar, Andre Araujo, Renato Martins, Erickson R. Nascimento
+    <br/>
+    [<a href="https://arxiv.org/abs/2404.19174">paper</a>] [<a href="https://github.com/verlab/accelerated_features">code</a>] [<a href="https://youtu.be/RamC70IkZuI">video</a>] [<a href="https://huggingface.co/spaces/qubvel-hf/xfeat">demo</a>] [<a href="https://colab.research.google.com/github/verlab/accelerated_features/blob/main/notebooks/xfeat_matching.ipynb">colab</a>]
+    <br/>
+    <strong>Topic:</strong> Low-level vision
+    <br/>
+    <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #245
 </p>
 <br/>
 <br/>
