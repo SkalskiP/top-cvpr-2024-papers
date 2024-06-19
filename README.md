@@ -89,6 +89,9 @@ looking for is not on my short list, take a peek at the full
 ### deep learning architectures and techniques
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30529.png?t=1717455193.7819567" title="Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30529.png?t=1717455193.7819567" alt="Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/pdf/2311.06242" title="Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks">
         <strong>🔥 Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks</strong>
     </a>
@@ -101,6 +104,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #102
 </p>
+<br/>
 <br/>
 
 ### document analysis and understanding
