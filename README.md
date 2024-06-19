@@ -106,9 +106,6 @@ looking for is not on my short list, take a peek at the full
 ### document analysis and understanding
 
 <p align="left">
-    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/ba0cae38-392e-4018-8955-e02ec5d15e71" title="DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/ba0cae38-392e-4018-8955-e02ec5d15e71" alt="DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks" width="400px" align="left" />
-    </a>
     <a href="https://arxiv.org/abs/2405.04408" title="DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks">
         <strong>DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks</strong>
     </a>
@@ -121,7 +118,6 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #101
 </p>
-<br/>
 <br/>
 
 ### efficient and scalable vision
@@ -201,8 +197,8 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30444.png?t=1716971707.2945282" title="Robust Image Denoising through Adversarial Frequency Mixup">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30444.png?t=1716971707.2945282" alt="Robust Image Denoising through Adversarial Frequency Mixup" width="400px" align="left" />
+    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/038bef8f-a6df-440d-9ebc-b58f69beb338" title="Robust Image Denoising through Adversarial Frequency Mixup">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/038bef8f-a6df-440d-9ebc-b58f69beb338" alt="Robust Image Denoising through Adversarial Frequency Mixup" width="400px" align="left" />
     </a>
     <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Ryou_Robust_Image_Denoising_through_Adversarial_Frequency_Mixup_CVPR_2024_paper.html" title="Robust Image Denoising through Adversarial Frequency Mixup">
         <strong>Robust Image Denoising through Adversarial Frequency Mixup</strong>
@@ -320,8 +316,8 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29420.png?t=1717294878.557463" title="Semantic-aware SAM for Point-Prompted Instance Segmentation">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29420.png?t=1717294878.557463" alt="Semantic-aware SAM for Point-Prompted Instance Segmentation" width="400px" align="left" />
+    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/2f2bf794-3981-48c8-992d-04dd32ee9ced" title="Semantic-aware SAM for Point-Prompted Instance Segmentation">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/2f2bf794-3981-48c8-992d-04dd32ee9ced" alt="Semantic-aware SAM for Point-Prompted Instance Segmentation" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2312.15895" title="Semantic-aware SAM for Point-Prompted Instance Segmentation">
         <strong>🔥 Semantic-aware SAM for Point-Prompted Instance Segmentation</strong>
@@ -356,8 +352,8 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29939.png?t=1717431826.2172995" title="General Object Foundation Model for Images and Videos at Scale">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29939.png?t=1717431826.2172995" alt="General Object Foundation Model for Images and Videos at Scale" width="400px" align="left" />
+    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/bfe79038-706d-491b-ac99-083f421dc5ec" title="General Object Foundation Model for Images and Videos at Scale">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/bfe79038-706d-491b-ac99-083f421dc5ec" alt="General Object Foundation Model for Images and Videos at Scale" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2312.09158" title="General Object Foundation Model for Images and Videos at Scale">
         <strong>🔥 General Object Foundation Model for Images and Videos at Scale</strong>
