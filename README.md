@@ -95,7 +95,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     Bin Xiao, Haiping Wu, Weijian Xu, Xiyang Dai, Houdong Hu, Yumao Lu, Michael Zeng, Ce Liu, Lu Yuan
     <br/>
-    [<a href="https://arxiv.org/pdf/2311.06242">paper</a>] [<a href="x">code</a>] [<a href="https://youtu.be/cOlyA00K1ec">video</a>] [<a href="https://huggingface.co/spaces/gokaygokay/Florence-2">demo</a>] [<a href="https://youtu.be/cOlyA00K1ec">colab</a>]
+    [<a href="https://arxiv.org/pdf/2311.06242">paper</a>]  [<a href="https://youtu.be/cOlyA00K1ec">video</a>] [<a href="https://huggingface.co/spaces/gokaygokay/Florence-2">demo</a>] [<a href="https://youtu.be/cOlyA00K1ec">colab</a>]
     <br/>
     <strong>Topic:</strong> Deep learning architectures and techniques
     <br/>
@@ -199,6 +199,26 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30444.png?t=1716971707.2945282" title="Robust Image Denoising through Adversarial Frequency Mixup">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30444.png?t=1716971707.2945282" alt="Robust Image Denoising through Adversarial Frequency Mixup" width="400px" align="left" />
+    </a>
+    <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Ryou_Robust_Image_Denoising_through_Adversarial_Frequency_Mixup_CVPR_2024_paper.html" title="Robust Image Denoising through Adversarial Frequency Mixup">
+        <strong>Robust Image Denoising through Adversarial Frequency Mixup</strong>
+    </a>
+    <br/>
+    Donghun Ryou, Inju Ha, Hyewon Yoo, Dongwan Kim, Bohyung Han
+    <br/>
+    [<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Ryou_Robust_Image_Denoising_through_Adversarial_Frequency_Mixup_CVPR_2024_paper.html">paper</a>] [<a href="https://github.com/dhryougit/AFM">code</a>] [<a href="https://youtu.be/zQ0pwFSk7uo">video</a>]  
+    <br/>
+    <strong>Topic:</strong> Low-level vision
+    <br/>
+    <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #250
+</p>
+<br/>
+<br/>
+
 ### multi-modal learning
 
 <p align="left">
@@ -294,6 +314,62 @@ looking for is not on my short list, take a peek at the full
     <strong>Topic:</strong> Segmentation, grouping and shape analysis
     <br/>
     <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #351
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29420.png?t=1717294878.557463" title="Semantic-aware SAM for Point-Prompted Instance Segmentation">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29420.png?t=1717294878.557463" alt="Semantic-aware SAM for Point-Prompted Instance Segmentation" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2312.15895" title="Semantic-aware SAM for Point-Prompted Instance Segmentation">
+        <strong>🔥 Semantic-aware SAM for Point-Prompted Instance Segmentation</strong>
+    </a>
+    <br/>
+    Zhaoyang Wei, Pengfei Chen, Xuehui Yu, Guorong Li, Jianbin Jiao, Zhenjun Han
+    <br/>
+    [<a href="https://arxiv.org/abs/2312.15895">paper</a>] [<a href="https://github.com/zhaoyangwei123/SAPNet">code</a>] [<a href="https://youtu.be/42-tJFmT7Ao">video</a>]  
+    <br/>
+    <strong>Topic:</strong> Segmentation, grouping and shape analysis
+    <br/>
+    <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #331
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2403.15789" title="In-Context Matting">
+        <strong>🔥 In-Context Matting</strong>
+    </a>
+    <br/>
+    He Guo, Zixuan Ye, Zhiguo Cao, Hao Lu
+    <br/>
+    [<a href="https://arxiv.org/abs/2403.15789">paper</a>] [<a href="https://github.com/tiny-smart/in-context-matting">code</a>]   
+    <br/>
+    <strong>Topic:</strong> Segmentation, grouping and shape analysis
+    <br/>
+    <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #343
+</p>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29939.png?t=1717431826.2172995" title="General Object Foundation Model for Images and Videos at Scale">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29939.png?t=1717431826.2172995" alt="General Object Foundation Model for Images and Videos at Scale" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2312.09158" title="General Object Foundation Model for Images and Videos at Scale">
+        <strong>🔥 General Object Foundation Model for Images and Videos at Scale</strong>
+    </a>
+    <br/>
+    Junfeng Wu, Yi Jiang, Qihao Liu, Zehuan Yuan, Xiang Bai, Song Bai
+    <br/>
+    [<a href="https://arxiv.org/abs/2312.09158">paper</a>] [<a href="https://github.com/FoundationVision/GLEE">code</a>] [<a href="https://www.youtube.com/watch?v=PSVhfTPx0GQ">video</a>]  
+    <br/>
+    <strong>Topic:</strong> Segmentation, grouping and shape analysis
+    <br/>
+    <strong>Session:</strong> Wed 19 Jun 1:30 p.m. EDT — 3 p.m. EDT #350
 </p>
 <br/>
 <br/>
