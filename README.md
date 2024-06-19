@@ -86,6 +86,23 @@ looking for is not on my short list, take a peek at the full
 </p>
 <br/>
 
+### deep learning architectures and techniques
+
+<p align="left">
+    <a href="https://arxiv.org/pdf/2311.06242" title="Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks">
+        <strong>🔥 Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks</strong>
+    </a>
+    <br/>
+    Bin Xiao, Haiping Wu, Weijian Xu, Xiyang Dai, Houdong Hu, Yumao Lu, Michael Zeng, Ce Liu, Lu Yuan
+    <br/>
+    [<a href="https://arxiv.org/pdf/2311.06242">paper</a>] [<a href="x">code</a>] [<a href="https://youtu.be/cOlyA00K1ec">video</a>] [<a href="https://huggingface.co/spaces/gokaygokay/Florence-2">demo</a>] [<a href="https://youtu.be/cOlyA00K1ec">colab</a>]
+    <br/>
+    <strong>Topic:</strong> Deep learning architectures and techniques
+    <br/>
+    <strong>Session:</strong> Wed 19 Jun 8 p.m. EDT — 9:30 p.m. EDT #102
+</p>
+<br/>
+
 ### document analysis and understanding
 
 <p align="left">
