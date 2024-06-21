@@ -141,6 +141,26 @@ looking for is not on my short list, take a peek at the full
 </p>
 <br/>
 
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30022.png?t=1718402790.003817" title="MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30022.png?t=1718402790.003817" alt="MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2311.17049" title="MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training">
+        <strong>MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training</strong>
+    </a>
+    <br/>
+    Pavan Kumar Anasosalu Vasu, Hadi Pouransari, Fartash Faghri, Raviteja Vemulapalli, Oncel Tuzel
+    <br/>
+    [<a href="https://arxiv.org/abs/2311.17049">paper</a>] [<a href="https://github.com/apple/ml-mobileclip">code</a>]  [<a href="https://huggingface.co/spaces/Xenova/webgpu-mobileclip">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Efficient and scalable vision
+    <br/>
+    <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #130
+</p>
+<br/>
+<br/>
+
 ### image and video synthesis and generation
 
 <p align="left">
@@ -273,6 +293,26 @@ looking for is not on my short list, take a peek at the full
     <strong>Topic:</strong> Recognition: Categorization, detection, retrieval
     <br/>
     <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #223
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31732.png?t=1717298372.5822952" title="Object Recognition as Next Token Prediction">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31732.png?t=1717298372.5822952" alt="Object Recognition as Next Token Prediction" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2312.02142" title="Object Recognition as Next Token Prediction">
+        <strong>🔥 Object Recognition as Next Token Prediction</strong>
+    </a>
+    <br/>
+    Kaiyu Yue, Bor-Chun Chen, Jonas Geiping, Hengduo Li, Tom Goldstein, Ser-Nam Lim
+    <br/>
+    [<a href="https://arxiv.org/abs/2312.02142">paper</a>] [<a href="https://github.com/kaiyuyue/nxtp">code</a>] [<a href="https://youtu.be/xeI8dZIpoco">video</a>]  [<a href="https://colab.research.google.com/drive/1pJX37LP5xGLDzD3H7ztTmpq1RrIBeWX3?usp=sharing">colab</a>]
+    <br/>
+    <strong>Topic:</strong> Recognition: Categorization, detection, retrieval
+    <br/>
+    <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #199
 </p>
 <br/>
 <br/>
@@ -488,6 +528,26 @@ looking for is not on my short list, take a peek at the full
     <strong>Topic:</strong> Vision, language, and reasoning
     <br/>
     <strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #317
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31040.png?t=1718300473.5736258" title="MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31040.png?t=1718300473.5736258" alt="MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2311.16502" title="MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI">
+        <strong>🔥 MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI</strong>
+    </a>
+    <br/>
+    Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen
+    <br/>
+    [<a href="https://arxiv.org/abs/2311.16502">paper</a>]    
+    <br/>
+    <strong>Topic:</strong> Vision, language, and reasoning
+    <br/>
+    <strong>Session:</strong> Thu 20 Jun 1:30 p.m. EDT — 3 p.m. EDT #382
 </p>
 <br/>
 <br/>
