@@ -8,8 +8,7 @@
 <br>
 
 <div align="center">
-  <img width="600" src="https://github.com/SkalskiP/top-cvpr-2023-papers/assets/26109316/2d7be39e-11a0-4298-ad90-c0645af0c5ac" alt="vancouver">
-  <p>photo from 2023; I will update in June</p>
+  <img width="600" src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/347853f9-9e93-4ca0-858b-a7c3f6bba073" alt="vancouver">
 </div>
 
 ## 👋 hello
