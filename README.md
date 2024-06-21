@@ -33,7 +33,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31668.png?t=1717417393.7589533" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31668.png?t=1717417393.7589533" alt="SpatialTracker: Tracking Any 2D Pixels in 3D Space" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/56498f78-2ca0-46ee-9231-6aa1806b6ebc" alt="SpatialTracker: Tracking Any 2D Pixels in 3D Space" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2404.04319" title="SpatialTracker: Tracking Any 2D Pixels in 3D Space">
         <strong>🔥 SpatialTracker: Tracking Any 2D Pixels in 3D Space</strong>
@@ -53,7 +53,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31616.png?t=1716470830.0209699" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31616.png?t=1716470830.0209699" alt="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/0453bf88-9d54-4ecf-8a45-01af0f604faf" alt="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2403.01807" title="ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models">
         <strong>ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models</strong>
@@ -90,7 +90,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30529.png?t=1717455193.7819567" title="Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30529.png?t=1717455193.7819567" alt="Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/4aaf3f87-cc62-4fa3-af99-c8c1c83c0069" alt="Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/pdf/2311.06242" title="Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks">
         <strong>🔥 Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks</strong>
@@ -161,7 +161,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/b0833f6b-6924-4f28-b409-ae85aaaa4dd6" title="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/b0833f6b-6924-4f28-b409-ae85aaaa4dd6" alt="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/2a0219f5-9f1e-47e1-a968-d4d98154feb2" alt="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2306.14435" title="DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing">
         <strong>🔥 DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing</strong>
@@ -182,7 +182,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/8eb6b4f0-4ae6-4615-9921-f73fa2aa3766" title="XFeat: Accelerated Features for Lightweight Image Matching">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/8eb6b4f0-4ae6-4615-9921-f73fa2aa3766" alt="XFeat: Accelerated Features for Lightweight Image Matching" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/50b6d16f-c2d8-49a4-8c15-a31d6f9a3c44" alt="XFeat: Accelerated Features for Lightweight Image Matching" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2404.19174" title="XFeat: Accelerated Features for Lightweight Image Matching">
         <strong>XFeat: Accelerated Features for Lightweight Image Matching</strong>
@@ -202,7 +202,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/038bef8f-a6df-440d-9ebc-b58f69beb338" title="Robust Image Denoising through Adversarial Frequency Mixup">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/038bef8f-a6df-440d-9ebc-b58f69beb338" alt="Robust Image Denoising through Adversarial Frequency Mixup" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/03cc753c-f875-479e-bca2-e0375e9929a6" alt="Robust Image Denoising through Adversarial Frequency Mixup" width="400px" align="left" />
     </a>
     <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Ryou_Robust_Image_Denoising_through_Adversarial_Frequency_Mixup_CVPR_2024_paper.html" title="Robust Image Denoising through Adversarial Frequency Mixup">
         <strong>Robust Image Denoising through Adversarial Frequency Mixup</strong>
@@ -240,7 +240,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31301.png?t=1717420504.9897285" title="DETRs Beat YOLOs on Real-time Object Detection">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31301.png?t=1717420504.9897285" alt="DETRs Beat YOLOs on Real-time Object Detection" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/3732bfdd-4be4-45cd-8353-e056094f9fec" alt="DETRs Beat YOLOs on Real-time Object Detection" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2304.08069" title="DETRs Beat YOLOs on Real-time Object Detection">
         <strong>DETRs Beat YOLOs on Real-time Object Detection</strong>
@@ -260,7 +260,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/f9023a28-aca5-4965-a194-984c62348dc0" title="YOLO-World: Real-Time Open-Vocabulary Object Detection">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/f9023a28-aca5-4965-a194-984c62348dc0" alt="YOLO-World: Real-Time Open-Vocabulary Object Detection" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/b9f0bb1e-91d4-4ea3-83c6-ee0817afc1bf" alt="YOLO-World: Real-Time Open-Vocabulary Object Detection" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2401.17270" title="YOLO-World: Real-Time Open-Vocabulary Object Detection">
         <strong>YOLO-World: Real-Time Open-Vocabulary Object Detection</strong>
@@ -281,7 +281,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/62d34981-73d6-49b2-8058-46ec99bac94d" title="RobustSAM: Segment Anything Robustly on Degraded Images">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/62d34981-73d6-49b2-8058-46ec99bac94d" alt="RobustSAM: Segment Anything Robustly on Degraded Images" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/ee15d3bc-c391-44f9-b35b-24af714ef119" alt="RobustSAM: Segment Anything Robustly on Degraded Images" width="400px" align="left" />
     </a>
     <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Chen_RobustSAM_Segment_Anything_Robustly_on_Degraded_Images_CVPR_2024_paper.html" title="RobustSAM: Segment Anything Robustly on Degraded Images">
         <strong>🔥 RobustSAM: Segment Anything Robustly on Degraded Images</strong>
@@ -301,7 +301,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30253.png?t=1716781257.513028" title="Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30253.png?t=1716781257.513028" alt="Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/0c43b789-f2e8-4ff9-ae46-b5a87de1b921" alt="Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation" width="400px" align="left" />
     </a>
     <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Frozen_CLIP_A_Strong_Backbone_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2024_paper.html" title="Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation">
         <strong>🔥 Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation</strong>
@@ -321,7 +321,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/2f2bf794-3981-48c8-992d-04dd32ee9ced" title="Semantic-aware SAM for Point-Prompted Instance Segmentation">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/2f2bf794-3981-48c8-992d-04dd32ee9ced" alt="Semantic-aware SAM for Point-Prompted Instance Segmentation" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/f1ed2755-1df1-45fe-810b-5fc98b4b52e1" alt="Semantic-aware SAM for Point-Prompted Instance Segmentation" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2312.15895" title="Semantic-aware SAM for Point-Prompted Instance Segmentation">
         <strong>🔥 Semantic-aware SAM for Point-Prompted Instance Segmentation</strong>
@@ -357,7 +357,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/bfe79038-706d-491b-ac99-083f421dc5ec" title="General Object Foundation Model for Images and Videos at Scale">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/bfe79038-706d-491b-ac99-083f421dc5ec" alt="General Object Foundation Model for Images and Videos at Scale" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/4f0ed38d-28aa-4766-b290-940cbc6711d6" alt="General Object Foundation Model for Images and Videos at Scale" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2312.09158" title="General Object Foundation Model for Images and Videos at Scale">
         <strong>🔥 General Object Foundation Model for Images and Videos at Scale</strong>
@@ -378,7 +378,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29590.png?t=1717456006.3308516" title="Matching Anything by Segmenting Anything">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29590.png?t=1717456006.3308516" alt="Matching Anything by Segmenting Anything" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/bb451f47-ba3e-4e34-a7c0-3410b64d9339" alt="Matching Anything by Segmenting Anything" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2406.04221" title="Matching Anything by Segmenting Anything">
         <strong>🔥 Matching Anything by Segmenting Anything</strong>
@@ -398,7 +398,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/9711186c-b05b-472d-b095-d98dbe386171" title="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/9711186c-b05b-472d-b095-d98dbe386171" alt="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/18caf2db-5dab-4251-9eeb-e2397c67eb3f" alt="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2403.02075" title="DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction">
         <strong>DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction</strong>
@@ -419,7 +419,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31492.png?t=1717327133.6073072" title="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31492.png?t=1717327133.6073072" alt="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/4480d88a-7f8f-48c2-bcb0-bde3b694dfd8" alt="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2312.03818" title="Alpha-CLIP: A CLIP Model Focusing on Wherever You Want">
         <strong>Alpha-CLIP: A CLIP Model Focusing on Wherever You Want</strong>
@@ -455,7 +455,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30109.png?t=1717509456.89997" title="LISA: Reasoning Segmentation via Large Language Model">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30109.png?t=1717509456.89997" alt="LISA: Reasoning Segmentation via Large Language Model" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/fc2699d9-7bd2-4c3a-8e6c-4961505cc802" alt="LISA: Reasoning Segmentation via Large Language Model" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2308.00692" title="LISA: Reasoning Segmentation via Large Language Model">
         <strong>🔥 LISA: Reasoning Segmentation via Large Language Model</strong>
@@ -475,7 +475,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/53e03a08-4dd9-451a-975e-e3654fa5bc71" title="ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/53e03a08-4dd9-451a-975e-e3654fa5bc71" alt="ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/6d1536ae-3f96-49d9-a05f-9648b925cdb5" alt="ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2312.00784" title="ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts">
         <strong>ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts</strong>

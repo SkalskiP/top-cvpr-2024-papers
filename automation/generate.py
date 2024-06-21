@@ -10,6 +10,7 @@ AUTHORS_COLUMN_NAME = "authors"
 TOPIC_COLUMN_NAME = "topic"
 SESSION_COLUMN_NAME = "session"
 POSTER_COLUMN_NAME = "poster"
+COMPRESSED_POSTER_COLUMN_NAME = "compressed_poster"
 PAPER_COLUMN_NAME = "paper"
 CODE_COLUMN_NAME = "code"
 HUGGINGFACE_SPACE_COLUMN_NAME = "huggingface"
@@ -96,6 +97,7 @@ def format_entry(entry: Series) -> str:
     topics = entry.loc[TOPIC_COLUMN_NAME]
     session = entry.loc[SESSION_COLUMN_NAME]
     poster = entry.loc[POSTER_COLUMN_NAME]
+    compressed_poster = entry.loc[COMPRESSED_POSTER_COLUMN_NAME]
     paper_id = entry.loc[PAPER_COLUMN_NAME]
     code_url = entry.loc[CODE_COLUMN_NAME]
     huggingface_url = entry.loc[HUGGINGFACE_SPACE_COLUMN_NAME]
@@ -109,13 +111,14 @@ def format_entry(entry: Series) -> str:
     colab_badge = COLAB_BADGE_PATTERN.format(colab_url) if colab_url else ""
     highlight_badge = "🔥 " if is_highlight == "True" else ""
     badges = " ".join([arxiv_badge, code_badge, youtube_badge, huggingface_badge, colab_badge])
+    compressed_poster = compressed_poster if compressed_poster else poster
 
     if not poster:
         return PAPER_WITHOUT_POSTER_PATTERN.format(
             paper_id, title, highlight_badge, title, authors, badges, topics, session)
 
     return PAPER_WITH_POSTER_PATTERN.format(
-        poster, title, poster, title, paper_id, title, highlight_badge, title, authors, badges, topics, session)
+        poster, title, compressed_poster, title, paper_id, title, highlight_badge, title, authors, badges, topics, session)
 
 
 def load_entries(path: str) -> List[str]:
