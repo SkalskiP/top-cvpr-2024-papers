@@ -160,6 +160,23 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
+### explainable computer vision
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2312.02974" title="Describing Differences in Image Sets with Natural Language">
+        <strong>🔥 Describing Differences in Image Sets with Natural Language</strong>
+    </a>
+    <br/>
+    Lisa Dunlap, Yuhui Zhang, Xiaohan Wang, Ruiqi Zhong, Trevor Darrell, Jacob Steinhardt, Joseph E. Gonzalez, Serena Yeung-Levy
+    <br/>
+    [<a href="https://arxiv.org/abs/2312.02974">paper</a>] [<a href="https://github.com/Understanding-Visual-Datasets/VisDiff">code</a>]   
+    <br/>
+    <strong>Topic:</strong> Explainable computer vision
+    <br/>
+    <strong>Session:</strong> Fri 21 Jun 8 p.m. EDT — 9:30 p.m. EDT #115
+</p>
+<br/>
+
 ### image and video synthesis and generation
 
 <p align="left">
