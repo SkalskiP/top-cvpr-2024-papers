@@ -414,6 +414,27 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
+### self-supervised or unsupervised representation learning
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30014.png?t=1717339970.9614518" title="InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30014.png?t=1717339970.9614518" alt="InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2312.14238" title="InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks">
+        <strong>🔥 InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks</strong>
+    </a>
+    <br/>
+    Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai
+    <br/>
+    [<a href="https://arxiv.org/abs/2312.14238">paper</a>] [<a href="https://github.com/OpenGVLab/InternVL">code</a>]  [<a href="https://huggingface.co/spaces/OpenGVLab/InternVL">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Self-supervised or unsupervised representation learning
+    <br/>
+    <strong>Session:</strong> Fri 21 Jun 8 p.m. EDT — 9:30 p.m. EDT #412
+</p>
+<br/>
+<br/>
+
 ### video: low-level analysis, motion, and tracking
 
 <p align="left">
