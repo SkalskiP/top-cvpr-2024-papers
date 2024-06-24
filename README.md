@@ -126,8 +126,8 @@ looking for is not on my short list, take a peek at the full
 ### efficient and scalable vision
 
 <p align="left">
-    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/88467c0e-8469-4bc7-98d2-8e9a7d618ea1" title="EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/e6e41b9d-1255-4a30-a357-6e953099a53c" alt="EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything" width="400px" align="left" />
+    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/e95eac04-5a45-402c-885d-14395879abd3" title="EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/e95eac04-5a45-402c-885d-14395879abd3" alt="EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2312.00863" title="EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything">
         <strong>🔥 EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything</strong>
@@ -167,8 +167,8 @@ looking for is not on my short list, take a peek at the full
 ### explainable computer vision
 
 <p align="left">
-    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/1fa80857-450d-4621-9dfc-ccbd56539dba" title="Describing Differences in Image Sets with Natural Language">
-        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/4596a093-2041-499a-9f66-befd4c434f9d" alt="Describing Differences in Image Sets with Natural Language" width="400px" align="left" />
+    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/6d87318b-57c1-40c7-9de6-5cb47145e119" title="Describing Differences in Image Sets with Natural Language">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/6d87318b-57c1-40c7-9de6-5cb47145e119" alt="Describing Differences in Image Sets with Natural Language" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2312.02974" title="Describing Differences in Image Sets with Natural Language">
         <strong>🔥 Describing Differences in Image Sets with Natural Language</strong>
