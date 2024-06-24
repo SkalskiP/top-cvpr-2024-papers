@@ -126,6 +126,9 @@ looking for is not on my short list, take a peek at the full
 ### efficient and scalable vision
 
 <p align="left">
+    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/88467c0e-8469-4bc7-98d2-8e9a7d618ea1" title="EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/e6e41b9d-1255-4a30-a357-6e953099a53c" alt="EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2312.00863" title="EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything">
         <strong>🔥 EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything</strong>
     </a>
@@ -138,6 +141,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Thu 20 Jun 8 p.m. EDT — 9:30 p.m. EDT #144
 </p>
+<br/>
 <br/>
 
 
@@ -163,6 +167,9 @@ looking for is not on my short list, take a peek at the full
 ### explainable computer vision
 
 <p align="left">
+    <a href="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/1fa80857-450d-4621-9dfc-ccbd56539dba" title="Describing Differences in Image Sets with Natural Language">
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/4596a093-2041-499a-9f66-befd4c434f9d" alt="Describing Differences in Image Sets with Natural Language" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2312.02974" title="Describing Differences in Image Sets with Natural Language">
         <strong>🔥 Describing Differences in Image Sets with Natural Language</strong>
     </a>
@@ -175,6 +182,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Fri 21 Jun 8 p.m. EDT — 9:30 p.m. EDT #115
 </p>
+<br/>
 <br/>
 
 ### image and video synthesis and generation
@@ -336,7 +344,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31732.png?t=1717298372.5822952" title="Object Recognition as Next Token Prediction">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31732.png?t=1717298372.5822952" alt="Object Recognition as Next Token Prediction" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/bcdc1aba-8ecb-4e63-a8a7-d287ca728bbb" alt="Object Recognition as Next Token Prediction" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2312.02142" title="Object Recognition as Next Token Prediction">
         <strong>🔥 Object Recognition as Next Token Prediction</strong>
@@ -454,7 +462,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30014.png?t=1717339970.9614518" title="InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30014.png?t=1717339970.9614518" alt="InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/9a03d726-0459-48f1-9f1e-5f12c7382084" alt="InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2312.14238" title="InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks">
         <strong>🔥 InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks</strong>
@@ -592,7 +600,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31040.png?t=1718300473.5736258" title="MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31040.png?t=1718300473.5736258" alt="MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/8b9f69b7-3384-40e6-828f-90bf7b43e345" alt="MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2311.16502" title="MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI">
         <strong>🔥 MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI</strong>
