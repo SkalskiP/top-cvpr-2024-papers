@@ -214,6 +214,26 @@ looking for is not on my short list, take a peek at the full
 <br/>
 <br/>
 
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30657.png?t=1717473392.6694562" title="Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30657.png?t=1717473392.6694562" alt="Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2311.17919" title="Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models">
+        <strong>🔥 Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models</strong>
+    </a>
+    <br/>
+    Daniel Geng, Inbum Park, Andrew Owens
+    <br/>
+    [<a href="https://arxiv.org/abs/2311.17919">paper</a>] [<a href="https://github.com/dangeng/visual_anagrams">code</a>]   [<a href="https://colab.research.google.com/github/dangeng/visual_anagrams/blob/main/notebooks/colab_demo_free_tier.ipynb">colab</a>]
+    <br/>
+    <strong>Topic:</strong> Image and video synthesis and generation
+    <br/>
+    <strong>Session:</strong> Fri 21 Jun 8 p.m. EDT — 9:30 p.m. EDT #118
+</p>
+<br/>
+<br/>
+
 ### low-level vision
 
 <p align="left">
