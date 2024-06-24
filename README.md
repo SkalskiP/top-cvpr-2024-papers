@@ -225,7 +225,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30657.png?t=1717473392.6694562" title="Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30657.png?t=1717473392.6694562" alt="Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models" width="400px" align="left" />
+        <img src="https://github.com/SkalskiP/top-cvpr-2024-papers/assets/26109316/709e3619-25d9-409e-b6ad-ca082611fe09" alt="Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2311.17919" title="Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models">
         <strong>🔥 Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models</strong>
