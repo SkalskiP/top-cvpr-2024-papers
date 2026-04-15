@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1 align="center">top CVPR 2024 papers</h1>
-  <a href="https://github.com/SkalskiP/top-cvpr-2023-papers">2023</a> | <a href="https://github.com/SkalskiP/top-cvpr-2024-papers">2024</a> | <a href="https://github.com/SkalskiP/top-cvpr-2025-papers">2025</a>
+  <a href="https://github.com/SkalskiP/top-cvpr-2023-papers">2023</a> | <a href="https://github.com/SkalskiP/top-cvpr-2024-papers">2024</a> | <a href="https://github.com/SkalskiP/top-cvpr-2025-papers">2025</a> | <a href="https://github.com/SkalskiP/top-cvpr-2026-papers">2026</a>
 </div>
 
 <br>
